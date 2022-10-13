@@ -1,0 +1,4 @@
+ What happens when you delete a file in a RUN phase during the dockerfile build?
+It is really deleted?
+
+no not completley,when running a docker file image layer is created with each line , the image layer dosn't get affected if you delete the file,so it will still be not deleted

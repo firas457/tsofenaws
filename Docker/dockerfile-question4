@@ -1,0 +1,5 @@
+FROM python:latest
+ADD "https://www.random.org/cgi-bin/randbyte?nbytes=10&format=h" skipcache
+RUN git clone https://github.com/firas457/tsofenaws.git
+WORKDIR tsofenaws
+CMD [ "python", "Docker/c2.py"]

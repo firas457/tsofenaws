@@ -1,0 +1,1 @@
+PUSH image to docker Hub, ssh to your EC2 Instance ,install docker inside EC2,docker Pull image

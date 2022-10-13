@@ -1,0 +1,5 @@
+CMD ["bash"]
+
+CMD ["catalina.sh" "run"]
+
+Checked Image layers for tomcat:9.0.65-jdk8-temurin-jammy in Docker Hub
