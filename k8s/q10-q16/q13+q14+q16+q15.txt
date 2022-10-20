@@ -1,0 +1,5 @@
+q13) no it didn't change, i think i should create a new image after the chnage then create a new pod with the change and deploy it.
+q15)yes, you can using port numbers specified with the services.
+
+q14 and q16 - i really don't have time to solve them,i have an exam :)
+the hard work was on the previous questions!, thank you very, good questions for learning.
